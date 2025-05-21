@@ -1,4 +1,4 @@
-#SavouryServe
+# SavouryServe
 
 A web application for managing a catering business along with a Transformer based recipe generator and connection with NGO's for food waste management for each events by the catering company.
 
